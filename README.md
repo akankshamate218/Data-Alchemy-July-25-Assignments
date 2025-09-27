@@ -108,17 +108,12 @@ git clone https://github.com/akankshamate218/Data-Alchemy-Project.git
 cd Data-Alchemy-Project
 
 
-3️⃣ Install dependencies (if any)
-
-pip install -r requirements.txt
-
-
-4️⃣ Run Jupyter Notebook
+3️⃣ Run Jupyter Notebook
 
 jupyter notebook
 
 
-5️⃣ Open and run notebooks like EDA.ipynb, PredictiveModelling.ipynb, or StreamlitDashboard.ipynb
+4️⃣ Open and run notebooks like EDA.ipynb, PredictiveModelling.ipynb, or StreamlitDashboard.ipynb
 
 
 ---
@@ -128,6 +123,7 @@ jupyter notebook
 💡 A big thank you to **Build Fellowship** for guidance and mentorship.  
 🤝 Thanks to my peers for collaboration and support throughout this project.  
 🌟 And special appreciation to everyone who reviewed and provided feedback.  
+
 
 
 
