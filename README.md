@@ -96,14 +96,38 @@ This project addresses the challenge by:
 
 ---
 
-##How to Run the code
-- git clone <repo_url>
-- cd <project_folder>
-- pip install -r requirements.txt
-- jupyter notebook
-- streamlit run streamlit_dashboard.ipynb
+## 🚀 How to Run the Code
 
-Special thanks to Open Avenues Build Fellowship for providing mentorship, guidance, and the opportunity to work on this impactful project.
+1️⃣ Clone the repository  
+
+git clone https://github.com/akankshamate218/Data-Alchemy-Project.git
+
+
+2️⃣ Navigate into the project folder
+
+cd Data-Alchemy-Project
+
+
+3️⃣ Install dependencies (if any)
+
+pip install -r requirements.txt
+
+
+4️⃣ Run Jupyter Notebook
+
+jupyter notebook
+
+
+5️⃣ Open and run notebooks like EDA.ipynb, PredictiveModelling.ipynb, or StreamlitDashboard.ipynb
+
+
+---
+
+## 🙏 Special Thanks
+
+💡 A big thank you to **Build Fellowship** for guidance and mentorship.  
+🤝 Thanks to my peers for collaboration and support throughout this project.  
+🌟 And special appreciation to everyone who reviewed and provided feedback.  
 
 
 
