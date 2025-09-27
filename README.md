@@ -96,7 +96,7 @@ This project addresses the challenge by:
 
 ---
 
-##How to Run
+##How to Run the code
 git clone <repo_url>
 cd <project_folder>
 pip install -r requirements.txt
@@ -104,4 +104,5 @@ jupyter notebook
 streamlit run streamlit_dashboard.ipynb
 
 Special thanks to Open Avenues Build Fellowship for providing mentorship, guidance, and the opportunity to work on this impactful project.
+
 
